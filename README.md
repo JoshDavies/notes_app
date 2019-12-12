@@ -1,3 +1,5 @@
+(commits for this project did not correctly register to my GitHub. Any commits named 'Student' were authoured by me (Josh))
+
 # Notes App
 An app to make notes
 
